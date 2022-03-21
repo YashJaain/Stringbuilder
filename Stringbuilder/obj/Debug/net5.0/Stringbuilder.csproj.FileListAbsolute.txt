@@ -1,0 +1,16 @@
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\bin\Debug\net5.0\Stringbuilder.exe
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\bin\Debug\net5.0\Stringbuilder.deps.json
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\bin\Debug\net5.0\Stringbuilder.runtimeconfig.json
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\bin\Debug\net5.0\Stringbuilder.runtimeconfig.dev.json
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\bin\Debug\net5.0\Stringbuilder.dll
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\bin\Debug\net5.0\Stringbuilder.pdb
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.AssemblyInfo.cs
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.dll
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\refint\Stringbuilder.dll
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.pdb
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\Stringbuilder.genruntimeconfig.cache
+C:\Users\win10\source\repos\Stringbuilder\Stringbuilder\obj\Debug\net5.0\ref\Stringbuilder.dll
